@@ -15,4 +15,4 @@ Six-session parent and carer workshop simulation based on the supplied Secondary
 - Session 3, slide 9: The daily-schedule example space is blank in the supplied PDF. The narration identifies this while explaining the intended type of support.
 - Session 6, slide 4: Webinar titles/dates and Community of Practice access details are not supplied. No dates or links are invented.
 - Session 6, slide 6: Feedback link and QR code remain TBA. The walkthrough invites written reflection for later sharing through confirmed arrangements.
-- Session 5, slide 14: The supplied support slide and workbook describe Kids Helpline as also for parents. Narration clarifies the official service scope: youth counselling ages 5-25, parent information on the website, and Parentline for parenting counselling. Supplied source files are preserved unchanged.
+- Session 5, slide 13: The supplied support slide and workbook describe Kids Helpline as also for parents. Narration clarifies the official service scope: youth counselling ages 5-25, parent information on the website, and Parentline for parenting counselling. Supplied source files are preserved unchanged.
