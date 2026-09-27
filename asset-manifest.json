@@ -1,0 +1,570 @@
+{
+  "title": "Parents and Carers - Secondary",
+  "slug": "parent-secondary",
+  "session_count": 6,
+  "assets": [
+    {
+      "label": "PC Secondary - Facilitator Guide",
+      "filename": "PC Secondary - Facilitator Guide.docx",
+      "format": "docx",
+      "category": "Editable guides",
+      "url": "Original Assets/PC Secondary - Facilitator Guide.docx",
+      "storage": "pages",
+      "bytes": 5148641,
+      "sha256": "ed40c433df2631e05f96cb3ad63a5f175231604b9c7e5326ff49fef4b45dc7e5"
+    },
+    {
+      "label": "PC Secondary - Workbook",
+      "filename": "PC Secondary - Workbook.docx",
+      "format": "docx",
+      "category": "Editable guides",
+      "url": "Original Assets/PC Secondary - Workbook.docx",
+      "storage": "pages",
+      "bytes": 23135,
+      "sha256": "1e05c6ae9f7cc3ee15e3167842ab5639610a60475bdf5f475a86cb6d3a2a2f39"
+    },
+    {
+      "label": "PC Secondary - Facilitator Guide",
+      "filename": "PC Secondary - Facilitator Guide.pdf",
+      "format": "pdf",
+      "category": "Guides",
+      "url": "Original Assets/PC Secondary - Facilitator Guide.pdf",
+      "storage": "pages",
+      "bytes": 6640938,
+      "sha256": "e8793395bd5d549a83cf08eb2cbddc65ef4b39d8d7a8358361fa7b8afd83febb"
+    },
+    {
+      "label": "PC Secondary - Session 1 - Supporting your Autistic young person to flourish",
+      "filename": "PC Secondary - Session 1 - Supporting your Autistic young person to flourish.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PC Secondary - Session 1 - Supporting your Autistic young person to flourish.pdf",
+      "storage": "pages",
+      "bytes": 2769639,
+      "sha256": "972c64760148c6e6b33007af44322dfad3c762669d05bc3428f0df6d7e75c362"
+    },
+    {
+      "label": "PC Secondary - Session 2 - Understanding Autistic Experience - Sensory and Thinking",
+      "filename": "PC Secondary - Session 2 - Understanding Autistic Experience - Sensory and Thinking.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PC Secondary - Session 2 - Understanding Autistic Experience - Sensory and Thinking.pdf",
+      "storage": "pages",
+      "bytes": 5459392,
+      "sha256": "2653b00325d35f97159bdf56dd46013cd3f3db974fe20e5dc0f9d5fd375f90cb"
+    },
+    {
+      "label": "PC Secondary - Session 3 - Communication, Connection and Managing Daily Capacity",
+      "filename": "PC Secondary - Session 3 - Communication, Connection and Managing Daily Capacity.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PC Secondary - Session 3 - Communication, Connection and Managing Daily Capacity.pdf",
+      "storage": "pages",
+      "bytes": 8109410,
+      "sha256": "f9e2c607721490bcb2b2720e11402bef093f2348edd301182d7983420a19e095"
+    },
+    {
+      "label": "PC Secondary - Session 4 - Home and Community",
+      "filename": "PC Secondary - Session 4 - Home and Community.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PC Secondary - Session 4 - Home and Community.pdf",
+      "storage": "pages",
+      "bytes": 606360,
+      "sha256": "aa3c7dde90e88dcaddbac6bafccdc07caf1b0b9b32514de6cf5887090720bb01"
+    },
+    {
+      "label": "PC Secondary - Session 5 - Partnership with the School",
+      "filename": "PC Secondary - Session 5 - Partnership with the School.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PC Secondary - Session 5 - Partnership with the School.pdf",
+      "storage": "pages",
+      "bytes": 3204583,
+      "sha256": "c00b8f78986bb275e9bb8048ffd74371727df9336e33bee7271e50769d0791bc"
+    },
+    {
+      "label": "PC Secondary - Session 6 - Full Circle",
+      "filename": "PC Secondary - Session 6 - Full Circle.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PC Secondary - Session 6 - Full Circle.pdf",
+      "storage": "pages",
+      "bytes": 1902216,
+      "sha256": "187a0c39ab90d17f13dea8302afd277b4c42cf9863c45efd5de35f60ccadbe18"
+    },
+    {
+      "label": "PC Secondary - Workbook",
+      "filename": "PC Secondary - Workbook.pdf",
+      "format": "pdf",
+      "category": "Guides",
+      "url": "Original Assets/PC Secondary - Workbook.pdf",
+      "storage": "pages",
+      "bytes": 174491,
+      "sha256": "05d1cfec3934c5cfec824fda4a8966eefc3d125beefdbe51dd8f819a126b50f9"
+    },
+    {
+      "label": "PC Secondary - Session 1 - Supporting your Autistic young person to flourish",
+      "filename": "PC Secondary - Session 1 - Supporting your Autistic young person to flourish.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--original--pc-secondary---session-1---supporting-your-autistic-young-person-to-flourish.pptx",
+      "storage": "release",
+      "bytes": 47176548,
+      "sha256": "c6f001e10cb5047a621ffe7e3b67389b73aa42db87a4b8df176c17d2c26b6a7a"
+    },
+    {
+      "label": "PC Secondary - Session 2 - Understanding Autistic Experience - Sensory and Thinking",
+      "filename": "PC Secondary - Session 2 - Understanding Autistic Experience - Sensory and Thinking.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--original--pc-secondary---session-2---understanding-autistic-experience---sensory-and-thinking.pptx",
+      "storage": "release",
+      "bytes": 86237059,
+      "sha256": "d767e5bbba6cc87d7d6455fec6081c61bb19c9b0be08383497f84ade9f862cce"
+    },
+    {
+      "label": "PC Secondary - Session 3 - Communication, Connection and Managing Daily Capacity",
+      "filename": "PC Secondary - Session 3 - Communication, Connection and Managing Daily Capacity.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--original--pc-secondary---session-3---communication-connection-and-managing-daily-capacity.pptx",
+      "storage": "release",
+      "bytes": 567893370,
+      "sha256": "0a345e66af6e378a491e1c508b681d90bceb796dc6f341431f6540916f2d27be"
+    },
+    {
+      "label": "PC Secondary - Session 4 - Home and Community",
+      "filename": "PC Secondary - Session 4 - Home and Community.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PC Secondary - Session 4 - Home and Community.pptx",
+      "storage": "pages",
+      "bytes": 762423,
+      "sha256": "cab7a49b586093fc8e0f2011a6c419169e12365b6a721e158e38084393aba62c"
+    },
+    {
+      "label": "PC Secondary - Session 5 - Partnership with the School",
+      "filename": "PC Secondary - Session 5 - Partnership with the School.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PC Secondary - Session 5 - Partnership with the School.pptx",
+      "storage": "pages",
+      "bytes": 8616222,
+      "sha256": "1ee08d7b043489f2d092fa9993e6f65f4b03f3b1f3b69fa20cfaf8741e68470a"
+    },
+    {
+      "label": "PC Secondary - Session 6 - Full Circle",
+      "filename": "PC Secondary - Session 6 - Full Circle.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PC Secondary - Session 6 - Full Circle.pptx",
+      "storage": "pages",
+      "bytes": 3460154,
+      "sha256": "3d25a9a2feb7f329e8ab926ddcf93386a01eeda4fcd6970970773ceaf33a4b97"
+    },
+    {
+      "label": "Session 1 · Supporting your Autistic young person to flourish",
+      "filename": "Session 1 - Supporting your Autistic young person to flourish.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--session-01.mp4",
+      "storage": "release",
+      "bytes": 92168759,
+      "sha256": "0f846cef9dbd23be0b9a4ccad63b7232616274d529b64017e367ac65c0eb6165"
+    },
+    {
+      "label": "Session 1 · web playback",
+      "filename": "session-1.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-1.mp4",
+      "storage": "pages",
+      "bytes": 27457057,
+      "sha256": "5d1713be7a4a556375c9de820d3f13e108f6055cf5658defe2da1b7e2d0a6fa4"
+    },
+    {
+      "label": "Session 1 · Supporting your Autistic young person to flourish · structured script",
+      "filename": "session-1.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-1.json",
+      "storage": "pages",
+      "bytes": 24530,
+      "sha256": "8ee3792d6a849ef9a0a05193181f4163b1f0205e811def42508e3defe9dad5bc"
+    },
+    {
+      "label": "Session 1 · Supporting your Autistic young person to flourish · readable script",
+      "filename": "session-1.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-1.md",
+      "storage": "pages",
+      "bytes": 17625,
+      "sha256": "ff9284f4d72301c8d10d83f22f78591f7fff3e31257cf77ff5ea5059dcd2d835"
+    },
+    {
+      "label": "Session 1 · SRT",
+      "filename": "Session 1 - Supporting your Autistic young person to flourish.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-1.srt",
+      "storage": "pages",
+      "bytes": 17536,
+      "sha256": "8ae16042f12ee93f77b419bdf5dc7a8ed858aa8cb087807cd70eb5ddac15e278"
+    },
+    {
+      "label": "Session 1 · VTT",
+      "filename": "Session 1 - Supporting your Autistic young person to flourish.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-1.vtt",
+      "storage": "pages",
+      "bytes": 17544,
+      "sha256": "bc70c614c05209c14b88fefce6d9355f49c227bf94c5f03c6aa3b52acbca1e5b"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience - Sensory and Thinking",
+      "filename": "Session 2 - Understanding Autistic Experience - Sensory and Thinking.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--session-02.mp4",
+      "storage": "release",
+      "bytes": 301271183,
+      "sha256": "d5fe1886304d0953ca0a1a03e0cfd9c74de64bb12ef16a440e0da2f8b9634fea"
+    },
+    {
+      "label": "Session 2 · web playback",
+      "filename": "session-2.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-2.mp4",
+      "storage": "pages",
+      "bytes": 79790269,
+      "sha256": "0fc173f62eae500c5cfa73d7f0e7c316eeef437ed157a852612d093bfd60ad05"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience - Sensory and Thinking · structured script",
+      "filename": "session-2.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-2.json",
+      "storage": "pages",
+      "bytes": 30434,
+      "sha256": "3f30e8bbb11d3e8b47a18443d13ba81a1790839ae200124eb0bded3e7694a46e"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience - Sensory and Thinking · readable script",
+      "filename": "session-2.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-2.md",
+      "storage": "pages",
+      "bytes": 22437,
+      "sha256": "77a3153fa952c312ee8382a45f522ccc21f54a9f4f1c55b8a369df602c6cb2e2"
+    },
+    {
+      "label": "Session 2 · SRT",
+      "filename": "Session 2 - Understanding Autistic Experience - Sensory and Thinking.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-2.srt",
+      "storage": "pages",
+      "bytes": 22052,
+      "sha256": "e819ced43ba863352add18ca543501b3e7544757547fef0c6407a95227e04474"
+    },
+    {
+      "label": "Session 2 · VTT",
+      "filename": "Session 2 - Understanding Autistic Experience - Sensory and Thinking.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-2.vtt",
+      "storage": "pages",
+      "bytes": 22060,
+      "sha256": "17b754e96df12fbcdede003061c1eb2c0016201c1925bb02bba666672f473fdd"
+    },
+    {
+      "label": "Session 3 · Communication, Connection and Managing Daily Capacity",
+      "filename": "Session 3 - Communication, Connection and Managing Daily Capacity.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--session-03.mp4",
+      "storage": "release",
+      "bytes": 279037964,
+      "sha256": "e083bfbe89bd4ab472e1d0047b44cf44a6aaa8099e6ebcb4e9925b3f80e8348c"
+    },
+    {
+      "label": "Session 3 · web playback",
+      "filename": "session-3.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-3.mp4",
+      "storage": "pages",
+      "bytes": 85100264,
+      "sha256": "896235e45ab56b35b0cde07fb2bc26128744fa06608488597b818d479b010c21"
+    },
+    {
+      "label": "Session 3 · Communication, Connection and Managing Daily Capacity · structured script",
+      "filename": "session-3.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-3.json",
+      "storage": "pages",
+      "bytes": 33019,
+      "sha256": "2e8a4073ad7417862894afc5a3be9003e4d32bc8efe15f42582fc5ec7b34a049"
+    },
+    {
+      "label": "Session 3 · Communication, Connection and Managing Daily Capacity · readable script",
+      "filename": "session-3.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-3.md",
+      "storage": "pages",
+      "bytes": 24097,
+      "sha256": "9c790ffde28e7a723d4179ec7a79e6290a31d622b107e61298924bfb697dfa5f"
+    },
+    {
+      "label": "Session 3 · SRT",
+      "filename": "Session 3 - Communication, Connection and Managing Daily Capacity.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-3.srt",
+      "storage": "pages",
+      "bytes": 21924,
+      "sha256": "265fd65d3b41f3103fc86715b90d7d1c84845ef1d3f37a3ea96f1c521bb8440d"
+    },
+    {
+      "label": "Session 3 · VTT",
+      "filename": "Session 3 - Communication, Connection and Managing Daily Capacity.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-3.vtt",
+      "storage": "pages",
+      "bytes": 21932,
+      "sha256": "eb7039643a24b1b281b3af96d8de1694b364fda5da463560f88991f67f2594d9"
+    },
+    {
+      "label": "Session 4 · Home and Community",
+      "filename": "Session 4 - Home and Community.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--session-04.mp4",
+      "storage": "release",
+      "bytes": 43208090,
+      "sha256": "2561b3801f4b81c76b1a4dcaa9a9c897ef62ea74b2587986241b10a74a905d83"
+    },
+    {
+      "label": "Session 4 · web playback",
+      "filename": "session-4.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-4.mp4",
+      "storage": "pages",
+      "bytes": 15456597,
+      "sha256": "7258844b5e97cf5c4dea0b901fb8c46cc9470458ba8a7d65e938c89819cd0ff1"
+    },
+    {
+      "label": "Session 4 · Home and Community · structured script",
+      "filename": "session-4.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-4.json",
+      "storage": "pages",
+      "bytes": 19323,
+      "sha256": "9cf2b5c4ac41d051eaaa7dc7c39fbe39d148a2029e6514318c376129f3466efd"
+    },
+    {
+      "label": "Session 4 · Home and Community · readable script",
+      "filename": "session-4.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-4.md",
+      "storage": "pages",
+      "bytes": 14737,
+      "sha256": "41cc2e63b6ab840d26bc88988740a611078ffc91b7544e45e4171cb3ae0c0c59"
+    },
+    {
+      "label": "Session 4 · SRT",
+      "filename": "Session 4 - Home and Community.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-4.srt",
+      "storage": "pages",
+      "bytes": 16379,
+      "sha256": "9e8b733340e3a99a9715c8e73d836054cb6dd14216932bbc7abb3c4dc9874d59"
+    },
+    {
+      "label": "Session 4 · VTT",
+      "filename": "Session 4 - Home and Community.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-4.vtt",
+      "storage": "pages",
+      "bytes": 16387,
+      "sha256": "7bbc8b9c554e258271d5867eed332404f35d114054d51b767fbc688ebbbff77c"
+    },
+    {
+      "label": "Session 5 · Partnership with the School",
+      "filename": "Session 5 - Partnership with the School.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--session-05.mp4",
+      "storage": "release",
+      "bytes": 82061386,
+      "sha256": "56eafbd923c0959dbc827c2b430910ec79105c31ffd7f0e5d5c2b284cd748479"
+    },
+    {
+      "label": "Session 5 · web playback",
+      "filename": "session-5.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-5.mp4",
+      "storage": "pages",
+      "bytes": 26330973,
+      "sha256": "8971fff84fc7a8f1e3c7f995021b8a1c1be191447e9d5d098351d351830c817d"
+    },
+    {
+      "label": "Session 5 · Partnership with the School · structured script",
+      "filename": "session-5.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-5.json",
+      "storage": "pages",
+      "bytes": 25434,
+      "sha256": "7928bf43e8c1f9dbd7f2cb29316e4e55dd0ca7af1553e5de3932c3fc3451e16b"
+    },
+    {
+      "label": "Session 5 · Partnership with the School · readable script",
+      "filename": "session-5.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-5.md",
+      "storage": "pages",
+      "bytes": 19166,
+      "sha256": "7334ea3b0966793839f8f36f2c467d73944db72f2c48c2f35d3d87202939ff60"
+    },
+    {
+      "label": "Session 5 · SRT",
+      "filename": "Session 5 - Partnership with the School.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-5.srt",
+      "storage": "pages",
+      "bytes": 19296,
+      "sha256": "3e63acda99e42bbd89153fc84a74d25c417ada69759dc32fb4cd517b5f03d204"
+    },
+    {
+      "label": "Session 5 · VTT",
+      "filename": "Session 5 - Partnership with the School.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-5.vtt",
+      "storage": "pages",
+      "bytes": 19304,
+      "sha256": "9d9b9fbbbe6a8661e6171f52feb92a98c5db7d6d65c00a5edfaba767e690d941"
+    },
+    {
+      "label": "Session 6 · Full Circle",
+      "filename": "Session 6 - Full Circle.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--session-06.mp4",
+      "storage": "release",
+      "bytes": 24708520,
+      "sha256": "f13a86e192fa2f0de62937cbf16bd828eb63d8f67bd21a1136b928ab5f6552a8"
+    },
+    {
+      "label": "Session 6 · web playback",
+      "filename": "session-6.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-6.mp4",
+      "storage": "pages",
+      "bytes": 7608628,
+      "sha256": "d9617a3963589215c7f15e4a97f12da6026ad5ee510871cfe789d7a22f0a2c18"
+    },
+    {
+      "label": "Session 6 · Full Circle · structured script",
+      "filename": "session-6.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-6.json",
+      "storage": "pages",
+      "bytes": 10540,
+      "sha256": "629a0ee5dd66ca6521ca9990ac626e50fb9235fcf60480988f2c1bc07433a305"
+    },
+    {
+      "label": "Session 6 · Full Circle · readable script",
+      "filename": "session-6.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-6.md",
+      "storage": "pages",
+      "bytes": 7719,
+      "sha256": "bcad80b74dd38476fdc25313a53da509800b4a2ea8c239b61035c27759a647bd"
+    },
+    {
+      "label": "Session 6 · SRT",
+      "filename": "Session 6 - Full Circle.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-6.srt",
+      "storage": "pages",
+      "bytes": 7066,
+      "sha256": "92c819c142f42e8fd0e6ac7650d8fdc4d32c045d4e39a3518c042191a387e95d"
+    },
+    {
+      "label": "Session 6 · VTT",
+      "filename": "Session 6 - Full Circle.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-6.vtt",
+      "storage": "pages",
+      "bytes": 7074,
+      "sha256": "21963fecbbe849d5171bd52452b749454fd6c9060a7f631551e09a00cc1a0a7c"
+    },
+    {
+      "label": "Complete workshop",
+      "filename": "Full Workshop.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-secondary/releases/download/workshop-v1/parent-secondary--full-workshop.mp4",
+      "storage": "release",
+      "bytes": 822452181,
+      "sha256": "66084d9a444f5cba6d6d922c0091365c448e0adafd717bfd0465a0558cf2200e"
+    },
+    {
+      "label": "Complete workshop · SRT",
+      "filename": "Full Workshop.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/full-workshop.srt",
+      "storage": "pages",
+      "bytes": 105076,
+      "sha256": "fd3c01a2d5feaaeb678b884bf9a9d066425733b68fe98af3f1ddfaab028b35f0"
+    },
+    {
+      "label": "Complete workshop · VTT",
+      "filename": "Full Workshop.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/full-workshop.vtt",
+      "storage": "pages",
+      "bytes": 105084,
+      "sha256": "1735c712c116410686417c3490748b20efc40740a395d6c3dbe0069346c27d4d"
+    },
+    {
+      "label": "Full facilitation script",
+      "filename": "Full Facilitation Script.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/Full Facilitation Script.md",
+      "storage": "pages",
+      "bytes": 105878,
+      "sha256": "7805b5909aef0d648552b969c1957a275972da9abafa2d2b5261c7f05fb8ef61"
+    }
+  ],
+  "source_original_count": 16,
+  "basis_repository_commit": "f5d58e862139a23997792aa0976b62add04d2b71",
+  "playback": "Same-site web derivatives. Full-quality videos are Release downloads only."
+}

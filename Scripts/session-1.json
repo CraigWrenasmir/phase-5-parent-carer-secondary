@@ -1,0 +1,261 @@
+{
+  "session": 1,
+  "title": "Supporting your Autistic young person to flourish",
+  "audience": "Parents and Carers - Secondary",
+  "segments": [
+    {
+      "id": "s01_sl01_a",
+      "slide": 1,
+      "kind": "narration",
+      "spoken_text": "Welcome to our Parents and Carers workshop, supporting your Autistic young person to flourish. The secondary years can bring a lot of change: different teachers, growing independence, important friendships and a young person who wants more say in their own life.\n\nToday builds on what you already know, alongside what your young person can tell us about themselves. We'll explore shared language and practical supports that fit your family. Keep your workbook nearby. Activity pauses in this walkthrough are brief. Pause the video whenever you need more time to think, write or talk, and resume when you're ready.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 1; matching slide PDF page 1; PC Secondary - Facilitator Guide PDF page 7; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "da985708438ace5cc8774a7093e1d3fdcc46ddf54d999447b86532402bfe11c0"
+    },
+    {
+      "id": "s01_sl02_a",
+      "slide": 2,
+      "kind": "narration",
+      "spoken_text": "I acknowledge the Traditional Custodians of the lands on which we are learning today, and pay my respects to Elders past and present. I recognise the continuing connections of Aboriginal and Torres Strait Islander peoples to Country, culture and community.\n\nI extend that respect to Aboriginal and Torres Strait Islander people taking part in this learning today.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 2; matching slide PDF page 2; PC Secondary - Facilitator Guide PDF page 8; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses. Generic Acknowledgement reused from approved simulations; no unverified local Custodian name asserted.",
+      "spoken_text_sha256": "1a00a946bd928e92550195b96e38e216f6cc5c1d904699c9c7feb1021ac03b32",
+      "reuse_catalog": {
+        "key": "1a00a946bd928e92550195b96e38e216f6cc5c1d904699c9c7feb1021ac03b32",
+        "catalog_path": "audio-catalog.json",
+        "source_workshop": "Primary Education",
+        "source_session": 1,
+        "source_segment": "s01_sl02_a"
+      }
+    },
+    {
+      "id": "s01_sl03_a",
+      "slide": 3,
+      "kind": "narration",
+      "spoken_text": "Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 3; matching slide PDF page 3; PC Secondary - Facilitator Guide PDF page 9; full speaker notes. PC Secondary - Workbook PDF page 1. Authored audience-facing delivery, with optional participation and no invented participant responses. Exact user-supplied reconciliation statement with approved workbook/demonstration introduction; statement confirmed on Workbook page 1.",
+      "spoken_text_sha256": "c76f04c8f0d0fbe435fbf945d994f87a5f6ac8f99bc4fd0ffeed63b10d27f259",
+      "reuse_catalog": {
+        "key": "c76f04c8f0d0fbe435fbf945d994f87a5f6ac8f99bc4fd0ffeed63b10d27f259",
+        "catalog_path": "audio-catalog.json",
+        "source_workshop": "common-reconciliation",
+        "source_session": 1,
+        "source_segment": "approved_reconciliation"
+      }
+    },
+    {
+      "id": "s01_sl04_a",
+      "slide": 4,
+      "kind": "narration",
+      "spoken_text": "First Nations people are advised that this workshop may contain images and voices of people who are no longer with us.",
+      "post_pause_seconds": 2,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 4; matching slide PDF page 4; PC Secondary - Facilitator Guide PDF page 10; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "3d8f2f4deacd160ecc682bdcdfb064169920cb4eb6517bb7959b056893a2ea26",
+      "reuse_catalog": {
+        "key": "3d8f2f4deacd160ecc682bdcdfb064169920cb4eb6517bb7959b056893a2ea26",
+        "catalog_path": "audio-catalog.json",
+        "source_workshop": "Primary Education",
+        "source_session": 1,
+        "source_segment": "s01_sl04_a"
+      }
+    },
+    {
+      "id": "s01_sl05_a",
+      "slide": 5,
+      "kind": "narration",
+      "spoken_text": "Everyone is welcome to be themselves here. You can move, stand, fidget, listen, write, step out or pass on an activity. Use whatever helps you take part. Some parents and carers here may be Autistic or otherwise neurodivergent themselves. Your experience is welcome too.\n\nYour workbook belongs to you, and you decide what to share. Please keep other families' stories private. When we discuss school or family situations, leave out identifying details. We can learn from a situation while respecting the people involved.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 5; matching slide PDF page 5; PC Secondary - Facilitator Guide PDF page 11; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "8e1742fceee08356b2ad90aab7f88c1dc07306ccdbb002a1b91131d1a3528ffe"
+    },
+    {
+      "id": "s01_sl06_a",
+      "slide": 6,
+      "kind": "narration",
+      "spoken_text": "Before we settle in, take a moment to check your surroundings: the exits, bathroom facilities, refreshments and any quiet space available. Follow the arrangements for your venue, including smoking and vaping. If you're watching elsewhere, make the space as comfortable as you can.\n\nKeep your phone available if you need to be contacted by your young person or their school, and be considerate about sounds and calls. Have your workbook and something to write with nearby. You can write questions down, and in a live workshop you can ask the delivery team privately or during a break. Attend to your own needs as we go.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 6; matching slide PDF page 6; PC Secondary - Facilitator Guide PDF page 12; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "8b6876edcd4046f9d9f68424a9bda12bded87da4f6c0e7f003a2ca408436f505"
+    },
+    {
+      "id": "s01_sl07_a",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Let's meet the people around us. At your table, share your first name and who you're here for. You might include your young person's age or year level, if you'd like to. Then share one thing you would like to understand by the end of the day.\n\nKeep it brief so everyone has room, and remember you can pass. There's no need to share a diagnosis, school name or private family circumstances. If you're watching on your own, make a note of your question on page four of the workbook. Pause here for your introductions.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 7; matching slide PDF page 7; PC Secondary - Facilitator Guide PDF page 13; full speaker notes. PC Secondary - Workbook PDF page 4. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "7e06f14a622b82041d522d549b65969be302dee817550da1db5606ee06b1f2e5"
+    },
+    {
+      "id": "s01_sl07_b",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Let's come back. Write your one thing on page four if you haven't already. Keep that question with you. We'll return to it in our final session and consider what has become clearer, as well as what you'd still like to explore.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 7; matching slide PDF page 7; PC Secondary - Facilitator Guide PDF page 13; full speaker notes. PC Secondary - Workbook PDF page 4. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "901ceffe91c5ec0a93a0af40dc389060423c70c45c4fd938075b3e53bc4fe209"
+    },
+    {
+      "id": "s01_sl08_a",
+      "slide": 8,
+      "kind": "narration",
+      "spoken_text": "Here's the shape of our day. We begin with your young person as a whole person, then explore sensory experience and thinking. After morning tea, we move into communication, connection and daily capacity. The afternoon turns towards home and community, followed by partnership with school. Our final session brings the learning back to a few small next steps.\n\nThe timetable on the slide is a guide for a live workshop, including morning tea from eleven to eleven fifteen and lunch from twelve fifteen to twelve forty-five. In this recording, take breaks when you need them. These six sessions are connected, so keep the same young person in mind throughout.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 8; matching slide PDF page 8; PC Secondary - Facilitator Guide PDF page 14; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "f8dc2de066bd0459f48e7a6890c444691d2bc7c14951155ad437d12eead0f02f"
+    },
+    {
+      "id": "s01_sl09_a",
+      "slide": 9,
+      "kind": "narration",
+      "spoken_text": "You'll hear us use identity-first language, such as Autistic person. Many Autistic people prefer it because autism is part of who they are. Other people prefer person on the autism spectrum, or another description. We respect the person's preference.\n\nTeenagers may have their own strong views about the words used to describe them. Ask what feels right for your young person, in a way that works for them. Some are newly identified, and some are still working out how they feel. Preferences can change. There's no test on language today. We can listen, learn and respect the words people choose for themselves.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 9; matching slide PDF page 9; PC Secondary - Facilitator Guide PDF page 15; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "f87b44c7d3d675cd321a598a8f502107bbd932c53754b77c3af4602d9aa2cab3"
+    },
+    {
+      "id": "s01_sl10_a",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Bring your young person to mind. What are three things you love or value about them? It might be their humour, an interest they know so much about, the way they connect with someone, or a small moment of joy.\n\nWrite those things on page four. For this moment, put the list of challenges to one side and notice who they are. If this is a hard season, one small moment from the past week is enough. Start privately, then share one thing with your table if you wish. Pause now and give yourself time.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 10; matching slide PDF page 10; PC Secondary - Facilitator Guide PDF page 16; full speaker notes. PC Secondary - Workbook PDF page 4. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "a93cfa72e077f0f064ac554c79e9a30c52301e0c721b3d37bc3e1926b32bea12"
+    },
+    {
+      "id": "s01_sl10_b",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Keep that page handy. Those strengths and joys belong in every conversation we have today, including conversations about support. We'll come back to them at the end, when you choose a strength to name to your young person.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 10; matching slide PDF page 10; PC Secondary - Facilitator Guide PDF page 16; full speaker notes. PC Secondary - Workbook PDF page 4. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "fd74caa90555dc7f2e6ebd191a37e9b35f9002fd7a57cb71de5dce708e0b324d"
+    },
+    {
+      "id": "s01_sl11_a",
+      "slide": 11,
+      "kind": "narration",
+      "spoken_text": "You know your young person in ways nobody else does. You bring years of everyday knowledge, and that matters here. Today adds shared language and useful ideas to that knowledge.\n\nAs young people get older, they also develop expertise about themselves. Part of this stage is bringing their own account alongside yours, including when it surprises you. We can take your observations seriously and make room for what your young person wants us to understand. The aim is a conversation about support that fits their life, with their growing agency at the centre.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 11; matching slide PDF page 11; PC Secondary - Facilitator Guide PDF page 17; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "be3d981cb615ec0e92a8b87fcbe1095a874c7c48eff8fc108695430aba559411"
+    },
+    {
+      "id": "s01_sl12_a",
+      "slide": 12,
+      "kind": "narration",
+      "spoken_text": "We're going to hear directly from Autistic young people. Listen to their accounts on their own terms. Each speaker offers their own experience. We don't need to compare them with your young person or ask one person to represent everyone.\n\nNotice what stays with you, and what it makes you curious to understand more deeply. Let's listen.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 12; matching slide PDF page 12; PC Secondary - Facilitator Guide PDF page 18; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "2a42f65c59c20d5b0ba5ad2903258a4592700b4e2267f7fb16538c1a1a33c043"
+    },
+    {
+      "id": "s01_sl12_video",
+      "slide": 12,
+      "kind": "video",
+      "media_path": "session-1-slide-12-media1.mp4",
+      "source_sha256": "04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834",
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 12; matching slide PDF page 12; PC Secondary - Facilitator Guide PDF page 18; full speaker notes. Original embedded film ppt/media/media1.mp4, preserved in full with original audio. SHA-256 04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834.",
+      "post_pause_seconds": 2
+    },
+    {
+      "id": "s01_sl12_b",
+      "slide": 12,
+      "kind": "narration",
+      "spoken_text": "Take a quiet moment with what you've just heard.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 12; matching slide PDF page 12; PC Secondary - Facilitator Guide PDF page 18; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "3f654e727df44f7bd15a528353906ed5b7d94ff3ade5695c4832c07a388d24da"
+    },
+    {
+      "id": "s01_sl13_a",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "On page four, return to the young people's voices. What did you notice? What stayed with you? And what would you like to understand more deeply about your own young person?\n\nBegin with a little private writing. If you share, stay close to what the speakers actually said. It's fine to feel moved, uncertain, or to have a question without an answer. You can talk with someone nearby or keep this reflection to yourself. Pause the video now.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 13; matching slide PDF page 13; PC Secondary - Facilitator Guide PDF page 19; full speaker notes. PC Secondary - Workbook PDF page 4. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "f9a9370f95478ebc265afdb1053f321cfd9e4aef072cc1c43c1b8cfbc6871be9"
+    },
+    {
+      "id": "s01_sl13_b",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "As we come back, keep one question in mind. Sensory experience, thinking and communication will give us ways to explore it. A question that stays open can be useful. We can listen carefully without assuming we already know what an experience means for someone else.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 13; matching slide PDF page 13; PC Secondary - Facilitator Guide PDF page 19; full speaker notes. PC Secondary - Workbook PDF page 4. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "b0baa5094c6af028d1512c954bf826dc3717334cd7e4587708740dbed6a97894"
+    },
+    {
+      "id": "s01_sl14_a",
+      "slide": 14,
+      "kind": "narration",
+      "spoken_text": "Neurodiversity means the diversity of human brains and minds. It includes everyone. Neurotypical and neurodivergent describe patterns within that wider picture, and autism is one expression of it.\n\nThese words help us talk about differences in experience and processing. They don't tell us everything about a particular person. As we explore common patterns today, keep asking how they do, or don't, connect with the young person you know. Each young person remains an individual.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 14; matching slide PDF page 14; PC Secondary - Facilitator Guide PDF page 20; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "d9ade920cbd5b3b86511069f42c32a589cb047a82bfb12e21ba7363b4bd7c529"
+    },
+    {
+      "id": "s01_sl15_a",
+      "slide": 15,
+      "kind": "narration",
+      "spoken_text": "A neurodiversity-affirming approach recognises different ways of knowing, doing, being and belonging. People think and learn in different ways. Everyone has strengths, and everyone can experience challenges.\n\nTake the things you wrote about your young person earlier. Their interests, enjoyment and way of connecting are part of the picture when we think about support. We can take difficulties seriously while valuing who they are. That means asking what the surroundings, routines and support need to look like so your young person can participate comfortably and authentically. A hard day doesn't cancel out a strength, and recognising a strength doesn't make a hard day disappear.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 15; matching slide PDF page 15; PC Secondary - Facilitator Guide PDF page 21; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "19d8c4704f0346f5476a36c201c07532f9db053727477334f56eedda8aae90d5"
+    },
+    {
+      "id": "s01_sl16_a",
+      "slide": 16,
+      "kind": "narration",
+      "spoken_text": "People have many parts to their identity. Culture, language, gender, sexuality, faith, disability, age and family circumstances may overlap and shape opportunities and barriers. That's the idea of intersectionality.\n\nAdolescence can be a time of exploring who you are. Autism is one part of that picture. Belonging might be found in family, cultural communities, online spaces or Autistic community. Some parts of identity may be private or still taking shape. We don't need personal disclosures here. Support can make room for the whole young person, including things they haven't chosen to share with us.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 16; matching slide PDF page 16; PC Secondary - Facilitator Guide PDF page 22; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "aba7403711926ed1d79621315eea05faea79da58ffcc5ba575e774e21e3bdadf"
+    },
+    {
+      "id": "s01_sl17_a",
+      "slide": 17,
+      "kind": "narration",
+      "spoken_text": "Capacity can change from minute to minute, day to day or term to term. Something your young person managed on a quiet Saturday may be far harder after a Monday of different teachers, busy corridors and changing classrooms. Assessment periods and the end of term can add to that load.\n\nThe phrase dynamic disability helps us keep this changing experience in view. The young person is the same, but the demands and available energy can differ. When something becomes hard, ask what else is going on and what support fits now. We'll return to daily capacity later.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 17; matching slide PDF page 17; PC Secondary - Facilitator Guide PDF page 23; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "a125fe73b8e88d27ed656e8aec7bfa4b025c857f1ae65377789847e5da0ddb79"
+    },
+    {
+      "id": "s01_sl18_a",
+      "slide": 18,
+      "kind": "narration",
+      "spoken_text": "Let's hold on to joy and flourishing as we move forward. Connection, belonging and small moments of enjoyment matter. Every family is different, and understanding what helps can take time.\n\nDoing something differently is fine when it helps your family. A quieter outing, a familiar shared activity or a small success can matter just as much as a bigger milestone. In our next session, we'll begin with how the world arrives through the senses, and then explore attention and thinking. Keep your young person's strengths alongside your questions.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Secondary, Session 1, slide 18; matching slide PDF page 18; PC Secondary - Facilitator Guide PDF page 24; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "9300bb0a5e40a922f33f7624805ceed3bcd76039c883a0a0cafcf4c0d3deebb1"
+    }
+  ],
+  "workshop": "Parents and Carers - Secondary",
+  "recording_note": "AI facilitator simulation using Steve Hogan. Brief activity pauses allow time to extend reflection or discussion. Original films retain their original audio.",
+  "display_label": "Session 1",
+  "display_title": "Supporting your Autistic young person to flourish"
+}
